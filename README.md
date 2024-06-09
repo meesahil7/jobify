@@ -11,8 +11,6 @@ This is a full stack application built with a React frontend and a Node.js/Expre
   - [Frontend](#frontend)
   - [Backend](#backend)
 - [Environment Variables](#environment-variables)
-- [Backend API Routes](#backend-api-routes)
-- [Features](#features)
 
 ## Getting Started
 
@@ -27,7 +25,7 @@ Make sure you have the following software installed on your machine:
 
 1. Clone the repository:
 
-   git clone https://github.com/meesahil7/jobify.git
+   git clone [https://github.com/meesahil7/jobify.git](https://github.com/meesahil7/jobify)
 
 2. Install dependencies for both the frontend and backend.
 
