@@ -1,6 +1,6 @@
 # Full Stack Application
 
-This is a full stack application built with a React frontend and a Node.js/Express backend. The application includes user authentication features such as signup, login, and OTP verification for secure actions.
+This is a full stack application built with a React frontend and a Node.js/Express backend. 
 
 ## Table of Contents
 
